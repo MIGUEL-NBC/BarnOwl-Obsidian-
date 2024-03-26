@@ -1,0 +1,13 @@
+{
+  "model": "gpt-3.5-turbo",
+  "apiKey": "",
+  "imgSize": "512x512",
+  "saveImg": "attachment",
+  "useSearchEngine": false,
+  "searchEngine": "bing",
+  "bingSearchKey": "",
+  "promptPerfectKey": "",
+  "usePromptPerfect": false,
+  "promptsForSelected": "",
+  "promptsForPdf": ""
+}

@@ -1,0 +1,36 @@
+{
+	"basenames": {
+		"lawo bookmarks.html": "Tracking Links/LAWO bookmarks.html",
+		"themedata.thmx": "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/themedata.thmx",
+		"maddow remote ptz 55.htm": "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/Maddow Remote PTZ 55.htm",
+		"maddow remote ptz 55 -  ticket 163231": "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/Maddow Remote PTZ 55 -  Ticket 163231.md",
+		"filelist.xml": "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/filelist.xml",
+		"colorschememapping.xml": "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/colorschememapping.xml",
+		"system control unit (scu) sony mks8010b": "Notes/Sony/System Control Unit (SCU) Sony MKS8010B.md",
+		"enhanced live-production control system (elc)": "Notes/Sony/Enhanced Live-production Control System (ELC).md",
+		"sony switcher glossary": "Notes/Sony/Sony Switcher Glossary.md",
+		"furio gateway": "Notes/Ross/Robotics/Furio Gateway.md",
+		"ross dashboard": "Notes/Ross/Robotics/Ross Dashboard.md",
+		"news room computer system (ncrs)": "Notes/News Setup/News Room Computer System (NCRS).md",
+		"inews newsroom computer system (nrcs)": "Notes/Avid/iNews/iNEWS Newsroom Computer System (NRCS).md",
+		"ap enps (electronic news production system) (nrcs)": "Notes/Associated Press/ENPS/AP ENPS (Electronic News Production System) (NRCS).md",
+		"file-index.json": "file-index.json"
+	},
+	"paths": [
+		"History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/Maddow Remote PTZ 55 -  Ticket 163231.md",
+		"History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/Maddow Remote PTZ 55.htm",
+		"History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/colorschememapping.xml",
+		"History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/filelist.xml",
+		"History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/themedata.thmx",
+		"Notes/Associated Press/ENPS/AP ENPS (Electronic News Production System) (NRCS).md",
+		"Notes/Avid/iNews/iNEWS Newsroom Computer System (NRCS).md",
+		"Notes/News Setup/News Room Computer System (NCRS).md",
+		"Notes/Ross/Robotics/Furio Gateway.md",
+		"Notes/Ross/Robotics/Ross Dashboard.md",
+		"Notes/Sony/Enhanced Live-production Control System (ELC).md",
+		"Notes/Sony/Sony Switcher Glossary.md",
+		"Notes/Sony/System Control Unit (SCU) Sony MKS8010B.md",
+		"Tracking Links/LAWO bookmarks.html",
+		"file-index.json"
+	]
+}

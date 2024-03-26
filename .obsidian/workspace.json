@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "55be8af78395296b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e173275ea238410e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "579d56286ce963d9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54dff20fe485fc54",
+    "type": "split",
+    "children": [
+      {
+        "id": "172262efa72774a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df8478cbcd6b5a3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e87cbd073fdcff49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4184728fe48e643",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 630.5034980773926
+  },
+  "right": {
+    "id": "aee6b9be2019d5f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e382ee76fd7cf6d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb2ead8d86165721",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "752994b45ca64301",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90d882e1e46a0f42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e39f10c8e4b3d295",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c3bb37121388abe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "df8478cbcd6b5a3f",
+  "lastOpenFiles": [
+    "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55.htm",
+    "Untitled.md",
+    "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/Maddow Remote PTZ 55.htm",
+    "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/Maddow Remote PTZ 55 -  Ticket 163231.md",
+    "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/themedata.thmx",
+    "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/filelist.xml",
+    "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/colorschememapping.xml",
+    "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files",
+    "History/Escalation & Support Tickets/Maddow Remote PTZ 55_files/themedata.thmx",
+    "History/Escalation & Support Tickets/Maddow Remote PTZ 55_files/filelist.xml",
+    "History/Escalation & Support Tickets/Maddow Remote PTZ 55_files/colorschememapping.xml",
+    "History/Escalation & Support Tickets/Maddow Remote PTZ 55_files",
+    "History/Maintenance Case Logs",
+    "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55 -  Ticket 163231.md",
+    "Untitled.canvas",
+    "Notes/Ross/Robotics/Furio Gateway.md",
+    "Notes/Ross/Robotics/Ross Dashboard.md",
+    "Ross Robo Station Data.md",
+    "Notes/Sony/Enhanced Live-production Control System (ELC).md",
+    "Notes/Sony/System Control Unit (SCU) Sony MKS8010B.md",
+    "Notes/Sony/Sony Switcher Glossary.md",
+    "Notes/News Setup/News Room Computer System (NCRS).md",
+    "Referenced Material/Reference Library/Vendor/Avid/iNews/iNEWS Newsroom Computer System (NRCS).png",
+    "Referenced Material/Reference Library/Vendor/Associated Press/ENPS/AP ENPS (Electronic News Production System) (NRCS).png",
+    "Notes/Associated Press/ENPS/AP ENPS (Electronic News Production System) (NRCS).md",
+    "Notes/Avid/iNews/iNEWS Newsroom Computer System (NRCS).md",
+    "Referenced Material/Reference Library/Vendor/Sony/Sony MKS8010B SCU.png",
+    "Pasted image 20240322205440.png",
+    "Pasted image 20240322205610.png",
+    "System Control Unit – MKS-8010B (MVS-6000pg.12).md",
+    "Notes/System Control Unit – MKS-8010B.md",
+    "Sony MVS-6000 CCP-6224 Panels pg.12.md",
+    "Referenced Material/Reference Library/Duplicates/Sony MKS-8010B Pic 1.png",
+    "Sony MVS-6000 CCP-6224 Panels 2.md",
+    "Sony MVS-6000 CCP-6224 Panels 1.md",
+    "image_name.md",
+    "To Be Organized/30 Rock Studio Maintenance - LAWO 30 Rock Documents/01_Training Docs/home Docker setup.JPG",
+    "30 Rock Studio Maintenance - LAWO 30 Rock Documents/01_Training Docs/home Docker setup.JPG",
+    "To Be Organized/Product Manuals/Sony/8000X/Teaneck Training Documentation/14 - MKS8010B fuses 2.jpg",
+    "To Be Organized/Product Manuals/Sony/8000X/Teaneck Training Documentation/05 - MVS 8000X Back view.JPG",
+    "IP Networks Today - How We Got Here.md",
+    "Fiber Connection Genders.md",
+    "Untitled 1.canvas",
+    "2024-03-18.md"
+  ]
+}

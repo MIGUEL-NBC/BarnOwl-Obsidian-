@@ -1,0 +1,8 @@
+{
+  "bgColorEnabled": true,
+  "bgColor": "#f2f2f2",
+  "opMode": "LowRestrictedMode",
+  "zoomByWheelAndGesture": true,
+  "zoomValue": 1,
+  "extraFileExt": ""
+}

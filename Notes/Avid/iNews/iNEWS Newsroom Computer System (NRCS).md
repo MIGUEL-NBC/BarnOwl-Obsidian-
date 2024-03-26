@@ -1,0 +1,3 @@
+Allowing you to capture more viewers while reducing operating costs, the iNEWS Newsroom Computer System (NRCS) is a dynamic, connected hub of news content creation and distribution. This comprehensive news broadcast solution enables you to swiftly create and deliver breaking news, unify your entire newsroom operation, and engage audiences across a broad spectrum of TV, radio, web, and mobile channels.
+
+![](iNEWS%20Newsroom%20Computer%20System%20(NRCS).png)
