@@ -102,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -155,8 +157,8 @@
   },
   "active": "df8478cbcd6b5a3f",
   "lastOpenFiles": [
-    "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55.htm",
     "Untitled.md",
+    "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55.htm",
     "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/Maddow Remote PTZ 55.htm",
     "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/Maddow Remote PTZ 55 -  Ticket 163231.md",
     "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55_files/themedata.thmx",
@@ -167,7 +169,6 @@
     "History/Escalation & Support Tickets/Maddow Remote PTZ 55_files/filelist.xml",
     "History/Escalation & Support Tickets/Maddow Remote PTZ 55_files/colorschememapping.xml",
     "History/Escalation & Support Tickets/Maddow Remote PTZ 55_files",
-    "History/Maintenance Case Logs",
     "History/Escalation & Support Tickets/Ross Robotics/Maddow Remote PTZ 55 -  Ticket 163231.md",
     "Untitled.canvas",
     "Notes/Ross/Robotics/Furio Gateway.md",
